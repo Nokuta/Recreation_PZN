@@ -1,2 +1,2 @@
 # Recreation_PZN
-Recreating programmerzamannow.com
+Recreating the home page of [Programmer Zaman Now](https://www.programmerzamannow.com/) as a project for basic programming class
